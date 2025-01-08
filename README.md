@@ -3,5 +3,5 @@ This is a RISC-V Talent Development Program powered by Samsung Semiconductor Ind
 ## Basic Details
 **Name:** Ram Prasad H\
 **College:** DAYANANDA SAGAR COLLEGE OF ENGINEERING\
-**Email ID:** ramprasad361b@gmail.com\\
-"."**Task 1:**
+**Email ID:** ramprasad361b@gmail.com
+### Task 1:
